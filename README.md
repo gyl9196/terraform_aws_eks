@@ -17,7 +17,7 @@ https://github.com/WesleyCharlesBlake/terraform-aws-eks
 ## Instructions
 1. Understand the `tf.sh` file to setup your AWS credential key in ~/.zshrc or ~/.bash_profile
 ```bash
-AAAA_GONG_AWS_ACCESS_KEY=******
+AAAA_AWS_ACCESS_KEY=******
 ```
 2. 
 ```bash
